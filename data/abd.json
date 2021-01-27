@@ -1,4 +1,4 @@
-{group:"Ｓ空",prefixID:"AS",commonStat:{size:"S",type:"a"},nextID:25}
+{group:"Ｓ空",prefixID:"AS",commonStat:{size:"S",type:"a",},nextID:25}
 {id:1,name:"ビーゾルBD",cost:60,capa:130,hp:60,str:3,tec:5,wlk:4,fly:9,tgh:3,wbid:1,cartridge:{hpup:29,lv1:"3*8@25|7@30|8@20|9@15|15@20|21@20|19@15",lv6:"22@30|29@15|31@40",lv9:"23@25|25@15|30@20"}}
 {id:2,name:"ソードウィングBD",cost:120,capa:335,hp:110,str:3,tec:6,wlk:4,fly:12,tgh:3,wbid:1,cartridge:{hpup:24,lv1:"3*7@25|7@30|9@15|8@20|21@20|19@15",lv6:"15@20|28@30|22@30|31@40",lv9:"18@30|27@40|12@20"}}
 {id:41,name:"ソルボルカノウィングBD",cartridge:{hpup:9,lv1:"3*6@25|7@30|9@15|8@20|22@30|21@20|11@20",lv6:"23@25|14@20|18@30|19@15",lv9:"26@20|30@20|31@40|32@50"},cost:420,capa:765,hp:215,str:11,tec:11,wlk:5,fly:11,tgh:8,wbid:1}
